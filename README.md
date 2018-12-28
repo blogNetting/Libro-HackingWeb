@@ -1,2 +1,3 @@
-# Libro-HackingWeb
-Material utilizado en los ejemplos del libro: Hacking y Seguridad Web.
+# Libro Hacking & Seguridad Web.
+
+En este repositorio encontrarás todo el material utilizado en los ejemplos del libro: Hacking y Seguridad Web.
